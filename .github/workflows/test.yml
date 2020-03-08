@@ -27,4 +27,4 @@ jobs:
         run: luacheck .
 
       - name: busted
-        run: busted -R Test/Lib --verbose --coverage
+        run: busted -R Test --verbose --coverage

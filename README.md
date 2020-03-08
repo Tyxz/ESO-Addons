@@ -1,4 +1,5 @@
 # My ESO Addons
+![Gitter](https://img.shields.io/gitter/room/Tyxz/ESO-Addons)
 ## [Clock - Tamriel Standard Time](https://github.com/Tyxz/Clock-Tamriel-Standard-Time)
 [![Build Status](https://travis-ci.org/Tyxz/Clock-Tamriel-Standard-Time.svg?branch=master)](https://travis-ci.org/Tyxz/Clock-Tamriel-Standard-Time)
 [![codecov](https://codecov.io/gh/Tyxz/Clock-Tamriel-Standard-Time/branch/master/graph/badge.svg)](https://codecov.io/gh/Tyxz/Clock-Tamriel-Standard-Time)
